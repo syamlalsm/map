@@ -8,5 +8,8 @@ fruit=["Apple","Banana","Apricot","Orange"]
 fruit=["Apple","Banana","Apricot","Orange"]
 fruit=["Apple","Banana","Apricot","Orange"]
 fruit=["Apple","Banana","Apricot","Orange"]
+fruit=["Apple","Banana","Apricot","Orange"]
+fruit=["Apple","Banana","Apricot","Orange"]
+fruit=["Apple","Banana","Apricot","Orange"]
 map_object=map(starts_with_A,fruit)
 print(list(map_object))
